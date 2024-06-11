@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #F27F1B;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    color:#590202;
+    background-color: #F2A25C;   
+}
+
+a{
+    display: flexbox;background-color: #590202;
+    text-decoration: none;
+
+}
+
+.container-fluid{
+    margin-top: 3px;
+}
+
+h2{
+    color: #590202;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20px;
+}
+
+.imageGabo{
+    align-content: center;
+}
+
+footer{
+    background-color: #590202;
+    color: white;
+}
